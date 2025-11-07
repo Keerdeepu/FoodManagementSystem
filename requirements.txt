@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy==2.0.21
+pymysql
+alembic    # optional if you want migrations
+python-dotenv
+databases   # optional
